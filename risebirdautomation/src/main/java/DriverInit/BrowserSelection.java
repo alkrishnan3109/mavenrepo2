@@ -37,6 +37,6 @@ public class BrowserSelection
 		System.out.println("selectBrowser");
 		System.out.println("selectBrowser");
 		
-		System.out.println("selectBrowser");
+		 
 	}
 }
