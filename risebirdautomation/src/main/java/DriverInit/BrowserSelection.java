@@ -10,6 +10,15 @@ public class BrowserSelection
 		System.out.println("selectBrowser");
 		System.out.println("selectBrowser");
 		
+		System.out.println("selectBrowser");
+	}
+	
+	public void selectBrowser(String browsername)
+	{
+		System.out.println("selectBrowser");
+		System.out.println("selectBrowser");
+		System.out.println("selectBrowser");
 		
+		System.out.println("selectBrowser");
 	}
 }
