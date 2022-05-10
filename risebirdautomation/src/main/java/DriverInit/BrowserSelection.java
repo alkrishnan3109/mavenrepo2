@@ -39,4 +39,13 @@ public class BrowserSelection
 		
 		System.out.println("selectBrowser");
 	}
+	
+	public void selectBrowser(int browsername,String browsername1,String browsername2)
+	{
+		System.out.println("selectBrowser");
+		System.out.println("selectBrowser");
+		System.out.println("selectBrowser");
+		
+		System.out.println("selectBrowser");
+	}
 }
