@@ -12,10 +12,7 @@ public class BrowserSelection
 		
 		System.out.println("selectBrowser");
 	}
-	
-<<<<<<< HEAD
-	 
-=======
+ 
 	public void selectBrowser(String browsername)
 	{
 		System.out.println("selectBrowser");
@@ -31,7 +28,7 @@ public class BrowserSelection
 		System.out.println("selectBrowser");
 		System.out.println("selectBrowser");
 		
-		System.out.println("selectBrowser");
+	 
 	}
 	
 	public void selectBrowser(String browsername,String browsername1,String browsername2)
@@ -51,5 +48,4 @@ public class BrowserSelection
 		
 		System.out.println("selectBrowser");
 	}
->>>>>>> branch 'master' of https://github.com/alkrishnan3109/mavenrepo2.git
 }
